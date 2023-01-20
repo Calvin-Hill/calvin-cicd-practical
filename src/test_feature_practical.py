@@ -3,7 +3,7 @@ from datetime import datetime
 import sys
 sys.path.insert(1, "C:\repos\calvin-cicd-practical\src")
 print(sys.path)
-from src.feature_practical import get_time
+from feature_practical import get_time
 
 name = "Calvin"
 timezone = +2
